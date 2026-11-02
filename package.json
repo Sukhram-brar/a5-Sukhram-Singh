@@ -1,0 +1,25 @@
+{
+  "name": "a5-sukhram-singh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sukhram-brar/a5-Sukhram-Singh.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Sukhram-brar/a5-Sukhram-Singh/issues"
+  },
+  "homepage": "https://github.com/Sukhram-brar/a5-Sukhram-Singh#readme",
+  "dependencies": {
+    "better-sqlite3": "^13.0.3",
+    "express": "^5.3.0"
+  }
+}
